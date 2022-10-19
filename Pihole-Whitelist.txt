@@ -1,34 +1,32 @@
-  # Wild
-qualer.com
-datadoghq.com
-getmaintainx.com
-lnks.gd
-online.sageintacct.com
-teams.events.data.microsoft.com
-scontent-atl3-1.xx
-scontent-atl3-1.fbcdn
-scontent-atl3-1.net
-static.xx.fbcdn.net
-edge-chat.messenger.com
-video.xx.fbcdn.net
-facebook.com
-baesystems-css.com
-easeus.com
-worldnow.com
-intuit.com
-bizjournals.com
-glancecdn.net
-glance.net
-t.yesware.com
-click.pstmrk.it
-cgtech.com
 awstrack.me
-
-  # Exact
-url5461.net-inspect.com
-s3.amazonaws.com
-us5.campaign-archive.com
+baesystems-css.com
+bizjournals.com
 cc-api-data.adobe.io
+cgtech.com
+click.pstmrk.it
+datadoghq.com
+easeus.com
+edge-chat.messenger.com
+getmaintainx.com
+glance.net
+glancecdn.net
+intuit.com
+lnks.gd
+netinspect.siteintercept.qualtrics.com
+online.sageintacct.com
+qualer.com
+s3.amazonaws.com
+scontent-atl3-1.xx.fbcdn.net
+static.xx.fbcdn.net
+t.yesware.com
+teams.events.data.microsoft.com
+url5461.net-inspect.com
+us5.campaign-archive.com
+video.xx.fbcdn.net
+worldnow.com
+www.facebook.com
+yesware.com
+
 
 
 
