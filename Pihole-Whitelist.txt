@@ -18,7 +18,7 @@ qualer.com
 s3.amazonaws.com
 scontent-atl3-1.xx.fbcdn.net
 static.xx.fbcdn.net
-t.yesware.com
+yesware.com
 teams.events.data.microsoft.com
 url5461.net-inspect.com
 us5.campaign-archive.com
